@@ -23,13 +23,13 @@
     
     Country *country = [[Country alloc] init];
     
-    [country loadCountryList];
-    int code = [self.textCountryCode.text intValue];
-    NSLog(@"The country code entered is %d", code);
+    NSString *code = self.textCountryCode.text;
+    NSLog(@"The country code entered is %@", code);
     
     NSString *countryName = [country getCountryNameByCode:code];
     NSLog(@"The country is %@", countryName);
     self.textCountryName.text = countryName;
+    [self.textCountryCode resignFirstResponder];
 }
 
 - (void)viewDidLoad

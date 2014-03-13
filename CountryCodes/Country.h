@@ -11,10 +11,9 @@
 @interface Country : NSObject
 
 @property (nonatomic, copy) NSString *name;
-@property (nonatomic, assign) int code;
-@property (nonatomic, copy) NSString *countryFlagName;
+@property (nonatomic, strong) NSDictionary *countryListByCode;
 
-- (NSString *)getCountryNameByCode:(int)code;
+- (NSString *)getCountryNameByCode:(NSString *)code;
 
 - (void)loadCountryList;
 

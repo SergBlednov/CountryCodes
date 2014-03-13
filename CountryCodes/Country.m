@@ -10,59 +10,29 @@
 #import "ByCodeViewController.h"
 
 @implementation Country
-{
-    NSMutableArray *_countryList;
-}
 
-- (id)init
+- (instancetype)init
 {
     self = [super init];
     if (self) {
-//        [self loadCountryList];
-//        [self registerDefaults];
-//        [self handleFirstTime];
+        [self loadCountryList];
     }
     return self;
 }
 
 - (void)loadCountryList
 {
-    _countryList = [[NSMutableArray alloc] initWithCapacity:20];
-    
-    Country *newCountry;
-    
-    newCountry = [[Country alloc] init];
-    newCountry.name = @"US";
-    newCountry.code = 0;
-    [_countryList addObject:newCountry];
-    
-    newCountry = [[Country alloc] init];
-    newCountry.name = @"France";
-    newCountry.code = 300;
-    [_countryList addObject:newCountry];
+    self.countryListByCode = [[NSDictionary alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"CountryListByCode" ofType:@"plist"]];
 
-    newCountry = [[Country alloc] init];
-    newCountry.name = @"Bulgaria";
-    newCountry.code = 380;
-    [_countryList addObject:newCountry];
-    
-    newCountry = [[Country alloc] init];
-    newCountry.name = @"Slovenija";
-    newCountry.code = 383;
-    [_countryList addObject:newCountry];
 }
 
-- (NSString *)getCountryNameByCode:(int)code
+- (NSString *)getCountryNameByCode:(NSString *)code
 {
-    NSString *countryName = @"Unknown country";
-
-    for (Country *country in _countryList) {
-        NSLog(@"Code is: %d", code);
-        if (code == country.code) {
-            countryName = country.name;
-        }
+    NSString *countryName = [self.countryListByCode objectForKey:code];
+    if (countryName != nil) {
+        return countryName;
     }
-    return countryName;
+    return @"Unknown country";
 }
 
 @end
