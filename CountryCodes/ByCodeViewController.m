@@ -24,6 +24,12 @@
     Country *country = [[Country alloc] init];
     
     NSString *code = self.textCountryCode.text;
+    
+    if (code.length > 3) {
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes Alert!" message:@"There are more then 3 digits. Please correct to 3 digits" delegate:self cancelButtonTitle:@"Okay" otherButtonTitles:nil, nil];
+        [alert show];
+        }
+    
     NSLog(@"The country code entered is %@", code);
     
     NSString *countryName = [country getCountryNameByCode:code];
@@ -35,6 +41,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self.textCountryCode becomeFirstResponder];
     
 }
 
