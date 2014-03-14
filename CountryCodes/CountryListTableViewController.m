@@ -48,7 +48,7 @@
 {
     Country *country = [[Country alloc] init];
     [country loadCountryList];
-    return [country.countryListByCode count];
+    return [country.countryListByName count];
 }
 
 
@@ -62,7 +62,10 @@
 
 // got from http://stackoverflow.com/questions/15247510/how-to-get-nsdictionary-data-into-a-uitableview
     
-    NSString *key = [country.countryListByName allKeys][indexPath.row];
+    NSArray *keyArray = [country.countryListByName allKeys];
+    NSArray *sortedArray = [keyArray sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
+    
+    NSString *key = sortedArray[indexPath.row];
     cell.textLabel.text = key;
     cell.detailTextLabel.text = country.countryListByName[key];
     return cell;

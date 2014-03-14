@@ -45,7 +45,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    [self.textCountryCode becomeFirstResponder];
+//    [self.textCountryCode becomeFirstResponder];
     
 }
 
