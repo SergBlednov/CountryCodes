@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>U.S. and Canada</key>
+	<string>000 – 019, 060 – 099</string>
+	<key>U.S</key>	<string>030 – 039, 100 – 139</string>
+	<key>France and Monaco</key>	<string>300 – 379</string>
+	<key>Bulgaria</key>	<string>380</string>
+	<key>Slovenia</key>	<string>383</string>
+	<key>Croatia</key>	<string>385</string>
+	<key>Bosnia and Herzegovina</key>	<string>387</string>
+	<key>Montenegro</key>	<string>389</string>
+	<key>Germany</key>	<string>400 – 440</string>
+	<key>Japan</key>	<string>450 – 459, 490 – 499</string>
+	<key>Russia</key>	<string>460 – 469</string>
+	<key>Kyrgyzstan</key>	<string>470</string>
+	<key>Taiwan</key>	<string>471</string>
+	<key>Estonia</key>	<string>474</string>
+	<key>Latvia</key>	<string>475</string>
+	<key>Azerbaijan</key>	<string>476</string>
+	<key>Lithuania</key>	<string>477</string>
+	<key>Uzbekistan</key>	<string>478</string>
+	<key>Sri Lanka</key>	<string>479</string>
+	<key>Philippines</key>	<string>480</string>
+	<key>Belarus</key>	<string>481</string>
+	<key>Ukraine</key>	<string>482</string>
+	<key>Moldova</key>	<string>484</string>
+	<key>Armenia</key>	<string>485</string>
+	<key>Georgia</key>	<string>486</string>
+	<key>Kazakhstan</key>	<string>487</string>
+	<key>Tajikistan</key>	<string>488</string>
+	<key>Hong Kong SAR</key>	<string>489</string>
+	<key>United Kingdom</key>	<string>500 – 509</string>
+	<key>Greece</key>	<string>520 – 521</string>
+	<key>Lebanon</key>	<string>528</string>
+	<key>Cyprus</key>	<string>529</string>
+	<key>Albania</key>	<string>530</string>
+	<key>Macedonia</key>	<string>531</string>
+	<key>Malta</key>	<string>535</string>
+	<key>Ireland</key>	<string>539</string>
+	<key>Belgium</key>	<string>540 – 549</string>
+	<key>Luxembourg</key>	<string>540 – 549</string>
+	<key>Portugal</key>	<string>560</string>
+	<key>Iceland</key>	<string>569</string>
+	<key>Denmark</key>	<string>570 – 579</string>
+	<key>Poland</key>	<string>590</string>
+	<key>Romania</key>	<string>594</string>
+	<key>Hungary</key>	<string>599</string>
+	<key>South Africa</key>	<string>600 – 601</string>
+	<key>Ghana</key>	<string>603</string>
+	<key>Senegal</key>	<string>604</string>
+	<key>Bahrain</key>	<string>608</string>
+	<key>Mauritius</key>	<string>609</string>
+	<key>Morocco</key>	<string>611</string>
+	<key>Algeria</key>	<string>613</string>
+	<key>Nigeria</key>	<string>615</string>
+	<key>Kenya</key>	<string>616</string>
+	<key>Côte d'Ivoire</key>	<string>618</string>
+	<key>Tunisia</key>	<string>619</string>
+	<key>Tanzania</key>	<string>620</string>
+	<key>Syria</key>	<string>621</string>
+	<key>Egypt</key>	<string>622</string>
+	<key>Brunei</key>	<string>623</string>
+	<key>Libya</key>	<string>624</string>
+	<key>Jordan</key>	<string>625</string>
+	<key>Iran</key>	<string>626</string>
+	<key>Kuwait</key>	<string>627</string>
+	<key>Saudi Arabia</key>	<string>628</string>
+	<key>United Arab Emirates</key>	<string>629</string>
+	<key>Finland</key>	<string>640 – 649</string>
+	<key>China</key>	<string>690 – 699</string>
+	<key>Norway</key>	<string>700 – 709</string>
+	<key>Israel</key>	<string>729</string>
+	<key>Sweden</key>	<string>730 – 739</string>
+	<key>Guatemala</key>	<string>740</string>
+	<key>El Salvador</key>	<string>741</string>
+	<key>Honduras</key>	<string>742</string>
+	<key>Nicaragua</key>	<string>743</string>
+	<key>Costa Rica</key>	<string>744</string>
+	<key>Panama</key>	<string>745</string>
+	<key>Dominican Republic</key>	<string>746</string>
+	<key>Mexico</key>	<string>750</string>
+	<key>Canada</key>	<string>754 – 755</string>
+	<key>Venezuela</key>	<string>759</string>
+	<key>Switzerland</key>	<string>760 – 769</string>
+	<key>Liechtenstein</key>	<string>760 – 769</string>
+	<key>Colombia</key>	<string>770 – 771</string>
+	<key>Uruguay</key>	<string>773</string>
+	<key>Peru</key>	<string>775</string>
+	<key>Bolivia</key>	<string>777</string>
+	<key>Argentina</key>	<string>778 – 779</string>
+	<key>Chile</key>	<string>780</string>
+	<key>Paraguay</key>	<string>784</string>
+	<key>Ecuador</key>	<string>786</string>
+	<key>Brazil</key>	<string>789 – 790</string>
+	<key>Italy</key>	<string>800 – 839</string>
+	<key>Spain and Andorra</key>	<string>840 – 849</string>
+	<key>Cuba</key>	<string>850</string>
+	<key>Slovakia</key>	<string>858</string>
+	<key>Czech Republic</key>	<string>859</string>
+	<key>Serbia</key>	<string>860</string>
+	<key>Mongolia</key>	<string>865</string>
+	<key>North Korea</key>	<string>867</string>
+	<key>Turkey</key>	<string>868 – 869</string>
+	<key>Netherlands</key>	<string>870 – 879</string>
+	<key>South Korea</key>	<string>880</string>
+	<key>Cambodia</key>	<string>884</string>
+	<key>Thailand</key>	<string>885</string>
+	<key>Singapore</key>	<string>888</string>
+	<key>India</key>	<string>890</string>
+	<key>Vietnam</key>	<string>893</string>
+	<key>Bangladesh</key>	<string>894</string>
+	<key>Pakistan</key>	<string>896</string>
+	<key>Indonesia</key>	<string>899</string>
+	<key>Austria</key>	<string>900 – 919</string>
+	<key>Australia</key>	<string>930 – 939</string>
+	<key>New Zealand</key>	<string>940 – 949</string>
+	<key>Malaysia</key>	<string>955</string>
+	<key>Macau</key>	<string>958</string>
+</dict>
+</plist>

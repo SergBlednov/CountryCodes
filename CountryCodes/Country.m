@@ -23,7 +23,8 @@
 - (void)loadCountryList
 {
     self.countryListByCode = [[NSDictionary alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"CountryListByCode" ofType:@"plist"]];
-
+    self.countryListByName = [[NSDictionary alloc] initWithContentsOfFile:[[NSBundle mainBundle] pathForResource:@"CountryListByName" ofType:@"plist"]];
+    
 }
 
 - (NSString *)getCountryNameByCode:(NSString *)code

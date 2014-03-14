@@ -12,11 +12,15 @@
 @interface ByCountryViewController ()
 @property (weak, nonatomic) IBOutlet UIPickerView *countryPicker;
 @property (weak, nonatomic) IBOutlet UITextField *textCountryCode;
-@property NSArray *countryNameList;
+
 
 @end
 
 @implementation ByCountryViewController
+{
+    NSDictionary *_countryListByName;
+    NSArray *_sortedArray;
+}
 
 - (NSInteger)numberOfComponentsInPickerView:(UIPickerView *)pickerView
 {
@@ -25,23 +29,34 @@
 
 - (NSInteger)pickerView:(UIPickerView *)pickerView numberOfRowsInComponent:(NSInteger)component
 {
-    return [self.countryNameList count];
+    
+    return [_countryListByName count];
 }
 
 - (NSString *)pickerView:(UIPickerView *)pickerView titleForRow:(NSInteger)row forComponent:(NSInteger)component
 {
-    return self.countryNameList[row];
+    NSArray *keyArray = [_countryListByName allKeys];
+    _sortedArray = [keyArray sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
+    return _sortedArray[row];
 }
 
-- (IBAction)done:(id)sender {
+- (void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
+{
+    NSLog(@"Name of Row is %d, country name is %@", row, _sortedArray[row]);
+    NSString *code = [_countryListByName objectForKey:_sortedArray[row]];
+    NSString *message = [[NSString alloc] initWithFormat:@"You've selected %@.\n Country code is %@", _sortedArray[row], code];
+    NSLog(@"%@", message);
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes \n By Country Name" message:message delegate:nil cancelButtonTitle:@"Okay!" otherButtonTitles:nil, nil];
+    [alert show];
+    self.textCountryCode.text = code;
 }
-
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-
-    self.countryNameList = @[@"US", @"France", @"Bulgaria", @"Slovenija", @"Taiwan", @"Latvia"];
+    Country *country = [[Country alloc] init];
+    _countryListByName = [[NSDictionary alloc] init];
+    _countryListByName = country.countryListByName;
     
 }
 

@@ -12,6 +12,7 @@
 
 @property (nonatomic, copy) NSString *name;
 @property (nonatomic, strong) NSDictionary *countryListByCode;
+@property (nonatomic, strong) NSDictionary *countryListByName;
 
 - (NSString *)getCountryNameByCode:(NSString *)code;
 

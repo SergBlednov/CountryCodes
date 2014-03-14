@@ -2,567 +2,1149 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>0</key>	<string>U.S. and Canada</string>
-	<key>1</key>	<string>U.S. and Canada</string>
-	<key>2</key>	<string>U.S. and Canada</string>
-	<key>3</key>	<string>U.S. and Canada</string>
-	<key>4</key>	<string>U.S. and Canada</string>
-	<key>5</key>	<string>U.S. and Canada</string>
-	<key>6</key>	<string>U.S. and Canada</string>
-	<key>7</key>	<string>U.S. and Canada</string>
-	<key>8</key>	<string>U.S. and Canada</string>
-	<key>9</key>	<string>U.S. and Canada</string>
-	<key>10</key>	<string>U.S. and Canada</string>
-	<key>11</key>	<string>U.S. and Canada</string>
-	<key>12</key>	<string>U.S. and Canada</string>
-	<key>13</key>	<string>U.S. and Canada</string>
-	<key>14</key>	<string>U.S. and Canada</string>
-	<key>15</key>	<string>U.S. and Canada</string>
-	<key>16</key>	<string>U.S. and Canada</string>
-	<key>17</key>	<string>U.S. and Canada</string>
-	<key>18</key>	<string>U.S. and Canada</string>
-	<key>19</key>	<string>U.S. and Canada</string>
-	<key>30</key>	<string>U.S. drugs</string>
-	<key>31</key>	<string>U.S. drugs</string>
-	<key>32</key>	<string>U.S. drugs</string>
-	<key>33</key>	<string>U.S. drugs</string>
-	<key>34</key>	<string>U.S. drugs</string>
-	<key>35</key>	<string>U.S. drugs</string>
-	<key>36</key>	<string>U.S. drugs</string>
-	<key>37</key>	<string>U.S. drugs</string>
-	<key>38</key>	<string>U.S. drugs</string>
-	<key>39</key>	<string>U.S. drugs</string>
-	<key>50</key>	<string>coupons</string>
-	<key>51</key>	<string>coupons</string>
-	<key>52</key>	<string>coupons</string>
-	<key>53</key>	<string>coupons</string>
-	<key>54</key>	<string>coupons</string>
-	<key>55</key>	<string>coupons</string>
-	<key>56</key>	<string>coupons</string>
-	<key>57</key>	<string>coupons</string>
-	<key>58</key>	<string>coupons</string>
-	<key>59</key>	<string>coupons</string>
-	<key>60</key>	<string>U.S. and Canada</string>
-	<key>61</key>	<string>U.S. and Canada</string>
-	<key>62</key>	<string>U.S. and Canada</string>
-	<key>63</key>	<string>U.S. and Canada</string>
-	<key>64</key>	<string>U.S. and Canada</string>
-	<key>65</key>	<string>U.S. and Canada</string>
-	<key>66</key>	<string>U.S. and Canada</string>
-	<key>67</key>	<string>U.S. and Canada</string>
-	<key>68</key>	<string>U.S. and Canada</string>
-	<key>69</key>	<string>U.S. and Canada</string>
-	<key>70</key>	<string>U.S. and Canada</string>
-	<key>71</key>	<string>U.S. and Canada</string>
-	<key>72</key>	<string>U.S. and Canada</string>
-	<key>73</key>	<string>U.S. and Canada</string>
-	<key>74</key>	<string>U.S. and Canada</string>
-	<key>75</key>	<string>U.S. and Canada</string>
-	<key>76</key>	<string>U.S. and Canada</string>
-	<key>77</key>	<string>U.S. and Canada</string>
-	<key>78</key>	<string>U.S. and Canada</string>
-	<key>79</key>	<string>U.S. and Canada</string>
-	<key>80</key>	<string>U.S. and Canada</string>
-	<key>81</key>	<string>U.S. and Canada</string>
-	<key>82</key>	<string>U.S. and Canada</string>
-	<key>83</key>	<string>U.S. and Canada</string>
-	<key>84</key>	<string>U.S. and Canada</string>
-	<key>85</key>	<string>U.S. and Canada</string>
-	<key>86</key>	<string>U.S. and Canada</string>
-	<key>87</key>	<string>U.S. and Canada</string>
-	<key>88</key>	<string>U.S. and Canada</string>
-	<key>89</key>	<string>U.S. and Canada</string>
-	<key>90</key>	<string>U.S. and Canada</string>
-	<key>91</key>	<string>U.S. and Canada</string>
-	<key>92</key>	<string>U.S. and Canada</string>
-	<key>93</key>	<string>U.S. and Canada</string>
-	<key>94</key>	<string>U.S. and Canada</string>
-	<key>95</key>	<string>U.S. and Canada</string>
-	<key>96</key>	<string>U.S. and Canada</string>
-	<key>97</key>	<string>U.S. and Canada</string>
-	<key>98</key>	<string>U.S. and Canada</string>
-	<key>99</key>	<string>U.S. and Canada</string>
-	<key>100</key>	<string>U.S. (reserved for later use)</string>
-	<key>101</key>	<string>U.S. (reserved for later use)</string>
-	<key>102</key>	<string>U.S. (reserved for later use)</string>
-	<key>103</key>	<string>U.S. (reserved for later use)</string>
-	<key>104</key>	<string>U.S. (reserved for later use)</string>
-	<key>105</key>	<string>U.S. (reserved for later use)</string>
-	<key>106</key>	<string>U.S. (reserved for later use)</string>
-	<key>107</key>	<string>U.S. (reserved for later use)</string>
-	<key>108</key>	<string>U.S. (reserved for later use)</string>
-	<key>109</key>	<string>U.S. (reserved for later use)</string>
-	<key>110</key>	<string>U.S. (reserved for later use)</string>
-	<key>111</key>	<string>U.S. (reserved for later use)</string>
-	<key>112</key>	<string>U.S. (reserved for later use)</string>
-	<key>113</key>	<string>U.S. (reserved for later use)</string>
-	<key>114</key>	<string>U.S. (reserved for later use)</string>
-	<key>115</key>	<string>U.S. (reserved for later use)</string>
-	<key>116</key>	<string>U.S. (reserved for later use)</string>
-	<key>117</key>	<string>U.S. (reserved for later use)</string>
-	<key>118</key>	<string>U.S. (reserved for later use)</string>
-	<key>119</key>	<string>U.S. (reserved for later use)</string>
-	<key>120</key>	<string>U.S. (reserved for later use)</string>
-	<key>121</key>	<string>U.S. (reserved for later use)</string>
-	<key>122</key>	<string>U.S. (reserved for later use)</string>
-	<key>123</key>	<string>U.S. (reserved for later use)</string>
-	<key>124</key>	<string>U.S. (reserved for later use)</string>
-	<key>125</key>	<string>U.S. (reserved for later use)</string>
-	<key>126</key>	<string>U.S. (reserved for later use)</string>
-	<key>127</key>	<string>U.S. (reserved for later use)</string>
-	<key>128</key>	<string>U.S. (reserved for later use)</string>
-	<key>129</key>	<string>U.S. (reserved for later use)</string>
-	<key>130</key>	<string>U.S. (reserved for later use)</string>
-	<key>131</key>	<string>U.S. (reserved for later use)</string>
-	<key>132</key>	<string>U.S. (reserved for later use)</string>
-	<key>133</key>	<string>U.S. (reserved for later use)</string>
-	<key>134</key>	<string>U.S. (reserved for later use)</string>
-	<key>135</key>	<string>U.S. (reserved for later use)</string>
-	<key>136</key>	<string>U.S. (reserved for later use)</string>
-	<key>137</key>	<string>U.S. (reserved for later use)</string>
-	<key>138</key>	<string>U.S. (reserved for later use)</string>
-	<key>139</key>	<string>U.S. (reserved for later use)</string>
-	<key>300</key>	<string>France and Monaco</string>
-	<key>301</key>	<string>France and Monaco</string>
-	<key>302</key>	<string>France and Monaco</string>
-	<key>303</key>	<string>France and Monaco</string>
-	<key>304</key>	<string>France and Monaco</string>
-	<key>305</key>	<string>France and Monaco</string>
-	<key>306</key>	<string>France and Monaco</string>
-	<key>307</key>	<string>France and Monaco</string>
-	<key>308</key>	<string>France and Monaco</string>
-	<key>309</key>	<string>France and Monaco</string>
-	<key>310</key>	<string>France and Monaco</string>
-	<key>311</key>	<string>France and Monaco</string>
-	<key>312</key>	<string>France and Monaco</string>
-	<key>313</key>	<string>France and Monaco</string>
-	<key>314</key>	<string>France and Monaco</string>
-	<key>315</key>	<string>France and Monaco</string>
-	<key>316</key>	<string>France and Monaco</string>
-	<key>317</key>	<string>France and Monaco</string>
-	<key>318</key>	<string>France and Monaco</string>
-	<key>319</key>	<string>France and Monaco</string>
-	<key>320</key>	<string>France and Monaco</string>
-	<key>321</key>	<string>France and Monaco</string>
-	<key>322</key>	<string>France and Monaco</string>
-	<key>323</key>	<string>France and Monaco</string>
-	<key>324</key>	<string>France and Monaco</string>
-	<key>325</key>	<string>France and Monaco</string>
-	<key>326</key>	<string>France and Monaco</string>
-	<key>327</key>	<string>France and Monaco</string>
-	<key>328</key>	<string>France and Monaco</string>
-	<key>329</key>	<string>France and Monaco</string>
-	<key>330</key>	<string>France and Monaco</string>
-	<key>331</key>	<string>France and Monaco</string>
-	<key>332</key>	<string>France and Monaco</string>
-	<key>333</key>	<string>France and Monaco</string>
-	<key>334</key>	<string>France and Monaco</string>
-	<key>335</key>	<string>France and Monaco</string>
-	<key>336</key>	<string>France and Monaco</string>
-	<key>337</key>	<string>France and Monaco</string>
-	<key>338</key>	<string>France and Monaco</string>
-	<key>339</key>	<string>France and Monaco</string>
-	<key>340</key>	<string>France and Monaco</string>
-	<key>341</key>	<string>France and Monaco</string>
-	<key>342</key>	<string>France and Monaco</string>
-	<key>343</key>	<string>France and Monaco</string>
-	<key>344</key>	<string>France and Monaco</string>
-	<key>345</key>	<string>France and Monaco</string>
-	<key>346</key>	<string>France and Monaco</string>
-	<key>347</key>	<string>France and Monaco</string>
-	<key>348</key>	<string>France and Monaco</string>
-	<key>349</key>	<string>France and Monaco</string>
-	<key>350</key>	<string>France and Monaco</string>
-	<key>351</key>	<string>France and Monaco</string>
-	<key>352</key>	<string>France and Monaco</string>
-	<key>353</key>	<string>France and Monaco</string>
-	<key>354</key>	<string>France and Monaco</string>
-	<key>355</key>	<string>France and Monaco</string>
-	<key>356</key>	<string>France and Monaco</string>
-	<key>357</key>	<string>France and Monaco</string>
-	<key>358</key>	<string>France and Monaco</string>
-	<key>359</key>	<string>France and Monaco</string>
-	<key>360</key>	<string>France and Monaco</string>
-	<key>361</key>	<string>France and Monaco</string>
-	<key>362</key>	<string>France and Monaco</string>
-	<key>363</key>	<string>France and Monaco</string>
-	<key>364</key>	<string>France and Monaco</string>
-	<key>365</key>	<string>France and Monaco</string>
-	<key>366</key>	<string>France and Monaco</string>
-	<key>367</key>	<string>France and Monaco</string>
-	<key>368</key>	<string>France and Monaco</string>
-	<key>369</key>	<string>France and Monaco</string>
-	<key>370</key>	<string>France and Monaco</string>
-	<key>371</key>	<string>France and Monaco</string>
-	<key>372</key>	<string>France and Monaco</string>
-	<key>373</key>	<string>France and Monaco</string>
-	<key>374</key>	<string>France and Monaco</string>
-	<key>375</key>	<string>France and Monaco</string>
-	<key>376</key>	<string>France and Monaco</string>
-	<key>377</key>	<string>France and Monaco</string>
-	<key>378</key>	<string>France and Monaco</string>
-	<key>379</key>	<string>France and Monaco</string>
-	<key>380</key>	<string>Bulgaria</string>
-	<key>383</key>	<string>Slovenia</string>
-	<key>385</key>	<string>Croatia</string>
-	<key>387</key>	<string>Bosnia and Herzegovina</string>
-	<key>389</key>	<string>Montenegro</string>
-	<key>400</key>	<string>Germany</string>
-	<key>401</key>	<string>Germany</string>
-	<key>402</key>	<string>Germany</string>
-	<key>403</key>	<string>Germany</string>
-	<key>404</key>	<string>Germany</string>
-	<key>405</key>	<string>Germany</string>
-	<key>406</key>	<string>Germany</string>
-	<key>407</key>	<string>Germany</string>
-	<key>408</key>	<string>Germany</string>
-	<key>409</key>	<string>Germany</string>
-	<key>410</key>	<string>Germany</string>
-	<key>411</key>	<string>Germany</string>
-	<key>412</key>	<string>Germany</string>
-	<key>413</key>	<string>Germany</string>
-	<key>414</key>	<string>Germany</string>
-	<key>415</key>	<string>Germany</string>
-	<key>416</key>	<string>Germany</string>
-	<key>417</key>	<string>Germany</string>
-	<key>418</key>	<string>Germany</string>
-	<key>419</key>	<string>Germany</string>
-	<key>420</key>	<string>Germany</string>
-	<key>421</key>	<string>Germany</string>
-	<key>422</key>	<string>Germany</string>
-	<key>423</key>	<string>Germany</string>
-	<key>424</key>	<string>Germany</string>
-	<key>425</key>	<string>Germany</string>
-	<key>426</key>	<string>Germany</string>
-	<key>427</key>	<string>Germany</string>
-	<key>428</key>	<string>Germany</string>
-	<key>429</key>	<string>Germany</string>
-	<key>430</key>	<string>Germany</string>
-	<key>431</key>	<string>Germany</string>
-	<key>432</key>	<string>Germany</string>
-	<key>433</key>	<string>Germany</string>
-	<key>434</key>	<string>Germany</string>
-	<key>435</key>	<string>Germany</string>
-	<key>436</key>	<string>Germany</string>
-	<key>437</key>	<string>Germany</string>
-	<key>438</key>	<string>Germany</string>
-	<key>439</key>	<string>Germany</string>
-	<key>440</key>	<string>Germany</string>
-	<key>450</key>	<string>Japan</string>
-	<key>451</key>	<string>Japan</string>
-	<key>452</key>	<string>Japan</string>
-	<key>453</key>	<string>Japan</string>
-	<key>454</key>	<string>Japan</string>
-	<key>455</key>	<string>Japan</string>
-	<key>456</key>	<string>Japan</string>
-	<key>457</key>	<string>Japan</string>
-	<key>458</key>	<string>Japan</string>
-	<key>459</key>	<string>Japan</string>
-	<key>460</key>	<string>Russia</string>
-	<key>461</key>	<string>Russia</string>
-	<key>462</key>	<string>Russia</string>
-	<key>463</key>	<string>Russia</string>
-	<key>464</key>	<string>Russia</string>
-	<key>465</key>	<string>Russia</string>
-	<key>466</key>	<string>Russia</string>
-	<key>467</key>	<string>Russia</string>
-	<key>468</key>	<string>Russia</string>
-	<key>469</key>	<string>Russia</string>
-	<key>470</key>	<string>Kyrgyzstan</string>
-	<key>471</key>	<string>Taiwan</string>
-	<key>474</key>	<string>Estonia</string>
-	<key>475</key>	<string>Latvia</string>
-	<key>476</key>	<string>Azerbaijan</string>
-	<key>477</key>	<string>Lithuania</string>
-	<key>478</key>	<string>Uzbekistan</string>
-	<key>479</key>	<string>Sri Lanka</string>
-	<key>480</key>	<string>Philippines</string>
-	<key>481</key>	<string>Belarus</string>
-	<key>482</key>	<string>Ukraine</string>
-	<key>484</key>	<string>Moldova</string>
-	<key>485</key>	<string>Armenia</string>
-	<key>486</key>	<string>Georgia</string>
-	<key>487</key>	<string>Kazakhstan</string>
-	<key>488</key>	<string>Tajikistan</string>
-	<key>489</key>	<string>Hong Kong SAR</string>
-	<key>490</key>	<string>Japan</string>
-	<key>491</key>	<string>Japan</string>
-	<key>492</key>	<string>Japan</string>
-	<key>493</key>	<string>Japan</string>
-	<key>494</key>	<string>Japan</string>
-	<key>495</key>	<string>Japan</string>
-	<key>496</key>	<string>Japan</string>
-	<key>497</key>	<string>Japan</string>
-	<key>498</key>	<string>Japan</string>
-	<key>499</key>	<string>Japan</string>
-	<key>500</key>	<string>United Kingdom</string>
-	<key>501</key>	<string>United Kingdom</string>
-	<key>502</key>	<string>United Kingdom</string>
-	<key>503</key>	<string>United Kingdom</string>
-	<key>504</key>	<string>United Kingdom</string>
-	<key>505</key>	<string>United Kingdom</string>
-	<key>506</key>	<string>United Kingdom</string>
-	<key>507</key>	<string>United Kingdom</string>
-	<key>508</key>	<string>United Kingdom</string>
-	<key>509</key>	<string>United Kingdom</string>
-	<key>520</key>	<string>Greece</string>
-	<key>521</key>	<string>Greece</string>
-	<key>528</key>	<string>Lebanon</string>
-	<key>529</key>	<string>Cyprus</string>
-	<key>530</key>	<string>Albania</string>
-	<key>531</key>	<string>Macedonia</string>
-	<key>535</key>	<string>Malta</string>
-	<key>539</key>	<string>Ireland</string>
-	<key>540</key>	<string>Belgium and Luxembourg</string>
-	<key>541</key>	<string>Belgium and Luxembourg</string>
-	<key>542</key>	<string>Belgium and Luxembourg</string>
-	<key>543</key>	<string>Belgium and Luxembourg</string>
-	<key>544</key>	<string>Belgium and Luxembourg</string>
-	<key>545</key>	<string>Belgium and Luxembourg</string>
-	<key>546</key>	<string>Belgium and Luxembourg</string>
-	<key>547</key>	<string>Belgium and Luxembourg</string>
-	<key>548</key>	<string>Belgium and Luxembourg</string>
-	<key>549</key>	<string>Belgium and Luxembourg</string>
-	<key>560</key>	<string>Portugal</string>
-	<key>569</key>	<string>Iceland</string>
-	<key>570</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>571</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>572</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>573</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>574</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>575</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>576</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>577</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>578</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>579</key>	<string>Denmark, Faroe Islands and Greenland</string>
-	<key>590</key>	<string>Poland</string>
-	<key>594</key>	<string>Romania</string>
-	<key>599</key>	<string>Hungary</string>
-	<key>600</key>	<string>South Africa</string>
-	<key>601</key>	<string>South Africa</string>
-	<key>603</key>	<string>Ghana</string>
-	<key>604</key>	<string>Senegal</string>
-	<key>608</key>	<string>Bahrain</string>
-	<key>609</key>	<string>Mauritius</string>
-	<key>611</key>	<string>Morocco</string>
-	<key>613</key>	<string>Algeria</string>
-	<key>615</key>	<string>Nigeria</string>
-	<key>616</key>	<string>Kenya</string>
-	<key>618</key>	<string>Côte d'Ivoire</string>
-	<key>619</key>	<string>Tunisia</string>
-	<key>620</key>	<string>Tanzania</string>
-	<key>621</key>	<string>Syria</string>
-	<key>622</key>	<string>Egypt</string>
-	<key>623</key>	<string>Brunei</string>
-	<key>624</key>	<string>Libya</string>
-	<key>625</key>	<string>Jordan</string>
-	<key>626</key>	<string>Iran</string>
-	<key>627</key>	<string>Kuwait</string>
-	<key>628</key>	<string>Saudi Arabia</string>
-	<key>629</key>	<string>United Arab Emirates</string>
-	<key>640</key>	<string>Finland</string>
-	<key>641</key>	<string>Finland</string>
-	<key>642</key>	<string>Finland</string>
-	<key>643</key>	<string>Finland</string>
-	<key>644</key>	<string>Finland</string>
-	<key>645</key>	<string>Finland</string>
-	<key>646</key>	<string>Finland</string>
-	<key>647</key>	<string>Finland</string>
-	<key>648</key>	<string>Finland</string>
-	<key>649</key>	<string>Finland</string>
-	<key>690</key>	<string>China, The People's Republic</string>
-	<key>691</key>	<string>China, The People's Republic</string>
-	<key>692</key>	<string>China, The People's Republic</string>
-	<key>693</key>	<string>China, The People's Republic</string>
-	<key>694</key>	<string>China, The People's Republic</string>
-	<key>695</key>	<string>China, The People's Republic</string>
-	<key>696</key>	<string>China, The People's Republic</string>
-	<key>697</key>	<string>China, The People's Republic</string>
-	<key>698</key>	<string>China, The People's Republic</string>
-	<key>699</key>	<string>China, The People's Republic</string>
-	<key>700</key>	<string>Norway</string>
-	<key>701</key>	<string>Norway</string>
-	<key>702</key>	<string>Norway</string>
-	<key>703</key>	<string>Norway</string>
-	<key>704</key>	<string>Norway</string>
-	<key>705</key>	<string>Norway</string>
-	<key>706</key>	<string>Norway</string>
-	<key>707</key>	<string>Norway</string>
-	<key>708</key>	<string>Norway</string>
-	<key>709</key>	<string>Norway</string>
-	<key>729</key>	<string>Israel</string>
-	<key>730</key>	<string>Sweden</string>
-	<key>731</key>	<string>Sweden</string>
-	<key>732</key>	<string>Sweden</string>
-	<key>733</key>	<string>Sweden</string>
-	<key>734</key>	<string>Sweden</string>
-	<key>735</key>	<string>Sweden</string>
-	<key>736</key>	<string>Sweden</string>
-	<key>737</key>	<string>Sweden</string>
-	<key>738</key>	<string>Sweden</string>
-	<key>739</key>	<string>Sweden</string>
-	<key>740</key>	<string>Guatemala</string>
-	<key>741</key>	<string>El Salvador</string>
-	<key>742</key>	<string>Honduras</string>
-	<key>743</key>	<string>Nicaragua</string>
-	<key>744</key>	<string>Costa Rica</string>
-	<key>745</key>	<string>Panama</string>
-	<key>746</key>	<string>Dominican Republic</string>
-	<key>750</key>	<string>Mexico</string>
-	<key>754</key>	<string>Canada</string>
-	<key>755</key>	<string>Canada</string>
-	<key>759</key>	<string>Venezuela</string>
-	<key>760</key>	<string>Switzerland and Liechtenstein</string>
-	<key>761</key>	<string>Switzerland and Liechtenstein</string>
-	<key>762</key>	<string>Switzerland and Liechtenstein</string>
-	<key>763</key>	<string>Switzerland and Liechtenstein</string>
-	<key>764</key>	<string>Switzerland and Liechtenstein</string>
-	<key>765</key>	<string>Switzerland and Liechtenstein</string>
-	<key>766</key>	<string>Switzerland and Liechtenstein</string>
-	<key>767</key>	<string>Switzerland and Liechtenstein</string>
-	<key>768</key>	<string>Switzerland and Liechtenstein</string>
-	<key>769</key>	<string>Switzerland and Liechtenstein</string>
-	<key>770</key>	<string>Colombia</string>
-	<key>771</key>	<string>Colombia</string>
-	<key>773</key>	<string>Uruguay</string>
-	<key>775</key>	<string>Peru</string>
-	<key>777</key>	<string>Bolivia</string>
-	<key>778</key>	<string>Argentina</string>
-	<key>779</key>	<string>Argentina</string>
-	<key>780</key>	<string>Chile</string>
-	<key>784</key>	<string>Paraguay</string>
-	<key>786</key>	<string>Ecuador</string>
-	<key>789</key>	<string>Brazil</string>
-	<key>790</key>	<string>Brazil</string>
-	<key>800</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>801</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>802</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>803</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>804</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>805</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>806</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>807</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>808</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>809</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>810</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>811</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>812</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>813</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>814</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>815</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>816</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>817</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>818</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>819</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>820</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>821</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>822</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>823</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>824</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>825</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>826</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>827</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>828</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>829</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>830</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>831</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>832</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>833</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>834</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>835</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>836</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>837</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>838</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>839</key>	<string>Italy, San Marino and Vatican City</string>
-	<key>840</key>	<string>Spain and Andorra</string>
-	<key>841</key>	<string>Spain and Andorra</string>
-	<key>842</key>	<string>Spain and Andorra</string>
-	<key>843</key>	<string>Spain and Andorra</string>
-	<key>844</key>	<string>Spain and Andorra</string>
-	<key>845</key>	<string>Spain and Andorra</string>
-	<key>846</key>	<string>Spain and Andorra</string>
-	<key>847</key>	<string>Spain and Andorra</string>
-	<key>848</key>	<string>Spain and Andorra</string>
-	<key>849</key>	<string>Spain and Andorra</string>
-	<key>850</key>	<string>Cuba</string>
-	<key>858</key>	<string>Slovakia</string>
-	<key>859</key>	<string>Czech Republic</string>
-	<key>860</key>	<string>Serbia</string>
-	<key>865</key>	<string>Mongolia</string>
-	<key>867</key>	<string>North Korea</string>
-	<key>868</key>	<string>Turkey</string>
-	<key>869</key>	<string>Turkey</string>
-	<key>870</key>	<string>Netherlands</string>
-	<key>871</key>	<string>Netherlands</string>
-	<key>872</key>	<string>Netherlands</string>
-	<key>873</key>	<string>Netherlands</string>
-	<key>874</key>	<string>Netherlands</string>
-	<key>875</key>	<string>Netherlands</string>
-	<key>876</key>	<string>Netherlands</string>
-	<key>877</key>	<string>Netherlands</string>
-	<key>878</key>	<string>Netherlands</string>
-	<key>879</key>	<string>Netherlands</string>
-	<key>880</key>	<string>South Korea</string>
-	<key>884</key>	<string>Cambodia</string>
-	<key>885</key>	<string>Thailand</string>
-	<key>888</key>	<string>Singapore</string>
-	<key>890</key>	<string>India</string>
-	<key>893</key>	<string>Vietnam</string>
-	<key>894</key>	<string>Bangladesh</string>
-	<key>896</key>	<string>Pakistan</string>
-	<key>899</key>	<string>Indonesia</string>
-	<key>900</key>	<string>Austria</string>
-	<key>901</key>	<string>Austria</string>
-	<key>902</key>	<string>Austria</string>
-	<key>903</key>	<string>Austria</string>
-	<key>904</key>	<string>Austria</string>
-	<key>905</key>	<string>Austria</string>
-	<key>906</key>	<string>Austria</string>
-	<key>907</key>	<string>Austria</string>
-	<key>908</key>	<string>Austria</string>
-	<key>909</key>	<string>Austria</string>
-	<key>910</key>	<string>Austria</string>
-	<key>911</key>	<string>Austria</string>
-	<key>912</key>	<string>Austria</string>
-	<key>913</key>	<string>Austria</string>
-	<key>914</key>	<string>Austria</string>
-	<key>915</key>	<string>Austria</string>
-	<key>916</key>	<string>Austria</string>
-	<key>917</key>	<string>Austria</string>
-	<key>918</key>	<string>Austria</string>
-	<key>919</key>	<string>Austria</string>
-	<key>930</key>	<string>Australia</string>
-	<key>931</key>	<string>Australia</string>
-	<key>932</key>	<string>Australia</string>
-	<key>933</key>	<string>Australia</string>
-	<key>934</key>	<string>Australia</string>
-	<key>935</key>	<string>Australia</string>
-	<key>936</key>	<string>Australia</string>
-	<key>937</key>	<string>Australia</string>
-	<key>938</key>	<string>Australia</string>
-	<key>939</key>	<string>Australia</string>
-	<key>940</key>	<string>New Zealand</string>
-	<key>941</key>	<string>New Zealand</string>
-	<key>942</key>	<string>New Zealand</string>
-	<key>943</key>	<string>New Zealand</string>
-	<key>944</key>	<string>New Zealand</string>
-	<key>945</key>	<string>New Zealand</string>
-	<key>946</key>	<string>New Zealand</string>
-	<key>947</key>	<string>New Zealand</string>
-	<key>948</key>	<string>New Zealand</string>
-	<key>949</key>	<string>New Zealand</string>
-	<key>955</key>	<string>Malaysia</string>
-	<key>958</key>	<string>Macau</string>
-	<key>980</key>	<string>Refund receipts</string>
-	<key>990</key>	<string>Coupons</string>
-	<key>991</key>	<string>Coupons</string>
-	<key>992</key>	<string>Coupons</string>
-	<key>993</key>	<string>Coupons</string>
-	<key>994</key>	<string>Coupons</string>
-	<key>995</key>	<string>Coupons</string>
-	<key>996</key>	<string>Coupons</string>
-	<key>997</key>	<string>Coupons</string>
-	<key>998</key>	<string>Coupons</string>
-	<key>999</key>	<string>Coupons</string>
+	<key>000</key>
+	<string>U.S. and Canada</string>
+	<key>001</key>
+	<string>U.S. and Canada</string>
+	<key>002</key>
+	<string>U.S. and Canada</string>
+	<key>003</key>
+	<string>U.S. and Canada</string>
+	<key>004</key>
+	<string>U.S. and Canada</string>
+	<key>005</key>
+	<string>U.S. and Canada</string>
+	<key>006</key>
+	<string>U.S. and Canada</string>
+	<key>007</key>
+	<string>U.S. and Canada</string>
+	<key>008</key>
+	<string>U.S. and Canada</string>
+	<key>009</key>
+	<string>U.S. and Canada</string>
+	<key>010</key>
+	<string>U.S. and Canada</string>
+	<key>011</key>
+	<string>U.S. and Canada</string>
+	<key>012</key>
+	<string>U.S. and Canada</string>
+	<key>013</key>
+	<string>U.S. and Canada</string>
+	<key>014</key>
+	<string>U.S. and Canada</string>
+	<key>015</key>
+	<string>U.S. and Canada</string>
+	<key>016</key>
+	<string>U.S. and Canada</string>
+	<key>017</key>
+	<string>U.S. and Canada</string>
+	<key>018</key>
+	<string>U.S. and Canada</string>
+	<key>019</key>
+	<string>U.S. and Canada</string>
+	<key>020</key>
+	<string>Restricted distribution</string>
+	<key>021</key>
+	<string>Restricted distribution</string>
+	<key>022</key>
+	<string>Restricted distribution</string>
+	<key>023</key>
+	<string>Restricted distribution</string>
+	<key>024</key>
+	<string>Restricted distribution</string>
+	<key>025</key>
+	<string>Restricted distribution</string>
+	<key>026</key>
+	<string>Restricted distribution</string>
+	<key>027</key>
+	<string>Restricted distribution</string>
+	<key>028</key>
+	<string>Restricted distribution</string>
+	<key>029</key>
+	<string>Restricted distribution</string>
+	<key>030</key>
+	<string>U.S. drugs</string>
+	<key>031</key>
+	<string>U.S. drugs</string>
+	<key>032</key>
+	<string>U.S. drugs</string>
+	<key>033</key>
+	<string>U.S. drugs</string>
+	<key>034</key>
+	<string>U.S. drugs</string>
+	<key>035</key>
+	<string>U.S. drugs</string>
+	<key>036</key>
+	<string>U.S. drugs</string>
+	<key>037</key>
+	<string>U.S. drugs</string>
+	<key>038</key>
+	<string>U.S. drugs</string>
+	<key>039</key>
+	<string>U.S. drugs</string>
+	<key>050</key>
+	<string>coupons</string>
+	<key>051</key>
+	<string>coupons</string>
+	<key>052</key>
+	<string>coupons</string>
+	<key>053</key>
+	<string>coupons</string>
+	<key>054</key>
+	<string>coupons</string>
+	<key>055</key>
+	<string>coupons</string>
+	<key>056</key>
+	<string>coupons</string>
+	<key>057</key>
+	<string>coupons</string>
+	<key>058</key>
+	<string>coupons</string>
+	<key>059</key>
+	<string>coupons</string>
+	<key>060</key>
+	<string>U.S. and Canada</string>
+	<key>061</key>
+	<string>U.S. and Canada</string>
+	<key>062</key>
+	<string>U.S. and Canada</string>
+	<key>063</key>
+	<string>U.S. and Canada</string>
+	<key>064</key>
+	<string>U.S. and Canada</string>
+	<key>065</key>
+	<string>U.S. and Canada</string>
+	<key>066</key>
+	<string>U.S. and Canada</string>
+	<key>067</key>
+	<string>U.S. and Canada</string>
+	<key>068</key>
+	<string>U.S. and Canada</string>
+	<key>069</key>
+	<string>U.S. and Canada</string>
+	<key>070</key>
+	<string>U.S. and Canada</string>
+	<key>071</key>
+	<string>U.S. and Canada</string>
+	<key>072</key>
+	<string>U.S. and Canada</string>
+	<key>073</key>
+	<string>U.S. and Canada</string>
+	<key>074</key>
+	<string>U.S. and Canada</string>
+	<key>075</key>
+	<string>U.S. and Canada</string>
+	<key>076</key>
+	<string>U.S. and Canada</string>
+	<key>077</key>
+	<string>U.S. and Canada</string>
+	<key>078</key>
+	<string>U.S. and Canada</string>
+	<key>079</key>
+	<string>U.S. and Canada</string>
+	<key>080</key>
+	<string>U.S. and Canada</string>
+	<key>081</key>
+	<string>U.S. and Canada</string>
+	<key>082</key>
+	<string>U.S. and Canada</string>
+	<key>083</key>
+	<string>U.S. and Canada</string>
+	<key>084</key>
+	<string>U.S. and Canada</string>
+	<key>085</key>
+	<string>U.S. and Canada</string>
+	<key>086</key>
+	<string>U.S. and Canada</string>
+	<key>087</key>
+	<string>U.S. and Canada</string>
+	<key>088</key>
+	<string>U.S. and Canada</string>
+	<key>089</key>
+	<string>U.S. and Canada</string>
+	<key>090</key>
+	<string>U.S. and Canada</string>
+	<key>091</key>
+	<string>U.S. and Canada</string>
+	<key>092</key>
+	<string>U.S. and Canada</string>
+	<key>093</key>
+	<string>U.S. and Canada</string>
+	<key>094</key>
+	<string>U.S. and Canada</string>
+	<key>095</key>
+	<string>U.S. and Canada</string>
+	<key>096</key>
+	<string>U.S. and Canada</string>
+	<key>097</key>
+	<string>U.S. and Canada</string>
+	<key>098</key>
+	<string>U.S. and Canada</string>
+	<key>099</key>
+	<string>U.S. and Canada</string>
+	<key>100</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>101</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>102</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>103</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>104</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>105</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>106</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>107</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>108</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>109</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>110</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>111</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>112</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>113</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>114</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>115</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>116</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>117</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>118</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>119</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>120</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>121</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>122</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>123</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>124</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>125</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>126</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>127</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>128</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>129</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>130</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>131</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>132</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>133</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>134</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>135</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>136</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>137</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>138</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>139</key>
+	<string>U.S. (reserved for later use)</string>
+	<key>300</key>
+	<string>France and Monaco</string>
+	<key>301</key>
+	<string>France and Monaco</string>
+	<key>302</key>
+	<string>France and Monaco</string>
+	<key>303</key>
+	<string>France and Monaco</string>
+	<key>304</key>
+	<string>France and Monaco</string>
+	<key>305</key>
+	<string>France and Monaco</string>
+	<key>306</key>
+	<string>France and Monaco</string>
+	<key>307</key>
+	<string>France and Monaco</string>
+	<key>308</key>
+	<string>France and Monaco</string>
+	<key>309</key>
+	<string>France and Monaco</string>
+	<key>310</key>
+	<string>France and Monaco</string>
+	<key>311</key>
+	<string>France and Monaco</string>
+	<key>312</key>
+	<string>France and Monaco</string>
+	<key>313</key>
+	<string>France and Monaco</string>
+	<key>314</key>
+	<string>France and Monaco</string>
+	<key>315</key>
+	<string>France and Monaco</string>
+	<key>316</key>
+	<string>France and Monaco</string>
+	<key>317</key>
+	<string>France and Monaco</string>
+	<key>318</key>
+	<string>France and Monaco</string>
+	<key>319</key>
+	<string>France and Monaco</string>
+	<key>320</key>
+	<string>France and Monaco</string>
+	<key>321</key>
+	<string>France and Monaco</string>
+	<key>322</key>
+	<string>France and Monaco</string>
+	<key>323</key>
+	<string>France and Monaco</string>
+	<key>324</key>
+	<string>France and Monaco</string>
+	<key>325</key>
+	<string>France and Monaco</string>
+	<key>326</key>
+	<string>France and Monaco</string>
+	<key>327</key>
+	<string>France and Monaco</string>
+	<key>328</key>
+	<string>France and Monaco</string>
+	<key>329</key>
+	<string>France and Monaco</string>
+	<key>330</key>
+	<string>France and Monaco</string>
+	<key>331</key>
+	<string>France and Monaco</string>
+	<key>332</key>
+	<string>France and Monaco</string>
+	<key>333</key>
+	<string>France and Monaco</string>
+	<key>334</key>
+	<string>France and Monaco</string>
+	<key>335</key>
+	<string>France and Monaco</string>
+	<key>336</key>
+	<string>France and Monaco</string>
+	<key>337</key>
+	<string>France and Monaco</string>
+	<key>338</key>
+	<string>France and Monaco</string>
+	<key>339</key>
+	<string>France and Monaco</string>
+	<key>340</key>
+	<string>France and Monaco</string>
+	<key>341</key>
+	<string>France and Monaco</string>
+	<key>342</key>
+	<string>France and Monaco</string>
+	<key>343</key>
+	<string>France and Monaco</string>
+	<key>344</key>
+	<string>France and Monaco</string>
+	<key>345</key>
+	<string>France and Monaco</string>
+	<key>346</key>
+	<string>France and Monaco</string>
+	<key>347</key>
+	<string>France and Monaco</string>
+	<key>348</key>
+	<string>France and Monaco</string>
+	<key>349</key>
+	<string>France and Monaco</string>
+	<key>350</key>
+	<string>France and Monaco</string>
+	<key>351</key>
+	<string>France and Monaco</string>
+	<key>352</key>
+	<string>France and Monaco</string>
+	<key>353</key>
+	<string>France and Monaco</string>
+	<key>354</key>
+	<string>France and Monaco</string>
+	<key>355</key>
+	<string>France and Monaco</string>
+	<key>356</key>
+	<string>France and Monaco</string>
+	<key>357</key>
+	<string>France and Monaco</string>
+	<key>358</key>
+	<string>France and Monaco</string>
+	<key>359</key>
+	<string>France and Monaco</string>
+	<key>360</key>
+	<string>France and Monaco</string>
+	<key>361</key>
+	<string>France and Monaco</string>
+	<key>362</key>
+	<string>France and Monaco</string>
+	<key>363</key>
+	<string>France and Monaco</string>
+	<key>364</key>
+	<string>France and Monaco</string>
+	<key>365</key>
+	<string>France and Monaco</string>
+	<key>366</key>
+	<string>France and Monaco</string>
+	<key>367</key>
+	<string>France and Monaco</string>
+	<key>368</key>
+	<string>France and Monaco</string>
+	<key>369</key>
+	<string>France and Monaco</string>
+	<key>370</key>
+	<string>France and Monaco</string>
+	<key>371</key>
+	<string>France and Monaco</string>
+	<key>372</key>
+	<string>France and Monaco</string>
+	<key>373</key>
+	<string>France and Monaco</string>
+	<key>374</key>
+	<string>France and Monaco</string>
+	<key>375</key>
+	<string>France and Monaco</string>
+	<key>376</key>
+	<string>France and Monaco</string>
+	<key>377</key>
+	<string>France and Monaco</string>
+	<key>378</key>
+	<string>France and Monaco</string>
+	<key>379</key>
+	<string>France and Monaco</string>
+	<key>380</key>
+	<string>Bulgaria</string>
+	<key>383</key>
+	<string>Slovenia</string>
+	<key>385</key>
+	<string>Croatia</string>
+	<key>387</key>
+	<string>Bosnia and Herzegovina</string>
+	<key>389</key>
+	<string>Montenegro</string>
+	<key>400</key>
+	<string>Germany</string>
+	<key>401</key>
+	<string>Germany</string>
+	<key>402</key>
+	<string>Germany</string>
+	<key>403</key>
+	<string>Germany</string>
+	<key>404</key>
+	<string>Germany</string>
+	<key>405</key>
+	<string>Germany</string>
+	<key>406</key>
+	<string>Germany</string>
+	<key>407</key>
+	<string>Germany</string>
+	<key>408</key>
+	<string>Germany</string>
+	<key>409</key>
+	<string>Germany</string>
+	<key>410</key>
+	<string>Germany</string>
+	<key>411</key>
+	<string>Germany</string>
+	<key>412</key>
+	<string>Germany</string>
+	<key>413</key>
+	<string>Germany</string>
+	<key>414</key>
+	<string>Germany</string>
+	<key>415</key>
+	<string>Germany</string>
+	<key>416</key>
+	<string>Germany</string>
+	<key>417</key>
+	<string>Germany</string>
+	<key>418</key>
+	<string>Germany</string>
+	<key>419</key>
+	<string>Germany</string>
+	<key>420</key>
+	<string>Germany</string>
+	<key>421</key>
+	<string>Germany</string>
+	<key>422</key>
+	<string>Germany</string>
+	<key>423</key>
+	<string>Germany</string>
+	<key>424</key>
+	<string>Germany</string>
+	<key>425</key>
+	<string>Germany</string>
+	<key>426</key>
+	<string>Germany</string>
+	<key>427</key>
+	<string>Germany</string>
+	<key>428</key>
+	<string>Germany</string>
+	<key>429</key>
+	<string>Germany</string>
+	<key>430</key>
+	<string>Germany</string>
+	<key>431</key>
+	<string>Germany</string>
+	<key>432</key>
+	<string>Germany</string>
+	<key>433</key>
+	<string>Germany</string>
+	<key>434</key>
+	<string>Germany</string>
+	<key>435</key>
+	<string>Germany</string>
+	<key>436</key>
+	<string>Germany</string>
+	<key>437</key>
+	<string>Germany</string>
+	<key>438</key>
+	<string>Germany</string>
+	<key>439</key>
+	<string>Germany</string>
+	<key>440</key>
+	<string>Germany</string>
+	<key>450</key>
+	<string>Japan</string>
+	<key>451</key>
+	<string>Japan</string>
+	<key>452</key>
+	<string>Japan</string>
+	<key>453</key>
+	<string>Japan</string>
+	<key>454</key>
+	<string>Japan</string>
+	<key>455</key>
+	<string>Japan</string>
+	<key>456</key>
+	<string>Japan</string>
+	<key>457</key>
+	<string>Japan</string>
+	<key>458</key>
+	<string>Japan</string>
+	<key>459</key>
+	<string>Japan</string>
+	<key>460</key>
+	<string>Russia</string>
+	<key>461</key>
+	<string>Russia</string>
+	<key>462</key>
+	<string>Russia</string>
+	<key>463</key>
+	<string>Russia</string>
+	<key>464</key>
+	<string>Russia</string>
+	<key>465</key>
+	<string>Russia</string>
+	<key>466</key>
+	<string>Russia</string>
+	<key>467</key>
+	<string>Russia</string>
+	<key>468</key>
+	<string>Russia</string>
+	<key>469</key>
+	<string>Russia</string>
+	<key>470</key>
+	<string>Kyrgyzstan</string>
+	<key>471</key>
+	<string>Taiwan</string>
+	<key>474</key>
+	<string>Estonia</string>
+	<key>475</key>
+	<string>Latvia</string>
+	<key>476</key>
+	<string>Azerbaijan</string>
+	<key>477</key>
+	<string>Lithuania</string>
+	<key>478</key>
+	<string>Uzbekistan</string>
+	<key>479</key>
+	<string>Sri Lanka</string>
+	<key>480</key>
+	<string>Philippines</string>
+	<key>481</key>
+	<string>Belarus</string>
+	<key>482</key>
+	<string>Ukraine</string>
+	<key>484</key>
+	<string>Moldova</string>
+	<key>485</key>
+	<string>Armenia</string>
+	<key>486</key>
+	<string>Georgia</string>
+	<key>487</key>
+	<string>Kazakhstan</string>
+	<key>488</key>
+	<string>Tajikistan</string>
+	<key>489</key>
+	<string>Hong Kong SAR</string>
+	<key>490</key>
+	<string>Japan</string>
+	<key>491</key>
+	<string>Japan</string>
+	<key>492</key>
+	<string>Japan</string>
+	<key>493</key>
+	<string>Japan</string>
+	<key>494</key>
+	<string>Japan</string>
+	<key>495</key>
+	<string>Japan</string>
+	<key>496</key>
+	<string>Japan</string>
+	<key>497</key>
+	<string>Japan</string>
+	<key>498</key>
+	<string>Japan</string>
+	<key>499</key>
+	<string>Japan</string>
+	<key>500</key>
+	<string>United Kingdom</string>
+	<key>501</key>
+	<string>United Kingdom</string>
+	<key>502</key>
+	<string>United Kingdom</string>
+	<key>503</key>
+	<string>United Kingdom</string>
+	<key>504</key>
+	<string>United Kingdom</string>
+	<key>505</key>
+	<string>United Kingdom</string>
+	<key>506</key>
+	<string>United Kingdom</string>
+	<key>507</key>
+	<string>United Kingdom</string>
+	<key>508</key>
+	<string>United Kingdom</string>
+	<key>509</key>
+	<string>United Kingdom</string>
+	<key>520</key>
+	<string>Greece</string>
+	<key>521</key>
+	<string>Greece</string>
+	<key>528</key>
+	<string>Lebanon</string>
+	<key>529</key>
+	<string>Cyprus</string>
+	<key>530</key>
+	<string>Albania</string>
+	<key>531</key>
+	<string>Macedonia</string>
+	<key>535</key>
+	<string>Malta</string>
+	<key>539</key>
+	<string>Ireland</string>
+	<key>540</key>
+	<string>Belgium and Luxembourg</string>
+	<key>541</key>
+	<string>Belgium and Luxembourg</string>
+	<key>542</key>
+	<string>Belgium and Luxembourg</string>
+	<key>543</key>
+	<string>Belgium and Luxembourg</string>
+	<key>544</key>
+	<string>Belgium and Luxembourg</string>
+	<key>545</key>
+	<string>Belgium and Luxembourg</string>
+	<key>546</key>
+	<string>Belgium and Luxembourg</string>
+	<key>547</key>
+	<string>Belgium and Luxembourg</string>
+	<key>548</key>
+	<string>Belgium and Luxembourg</string>
+	<key>549</key>
+	<string>Belgium and Luxembourg</string>
+	<key>560</key>
+	<string>Portugal</string>
+	<key>569</key>
+	<string>Iceland</string>
+	<key>570</key>
+	<string>Denmark</string>
+	<key>571</key>
+	<string>Denmark</string>
+	<key>572</key>
+	<string>Denmark</string>
+	<key>573</key>
+	<string>Denmark</string>
+	<key>574</key>
+	<string>Denmark</string>
+	<key>575</key>
+	<string>Denmark</string>
+	<key>576</key>
+	<string>Denmark</string>
+	<key>577</key>
+	<string>Denmark</string>
+	<key>578</key>
+	<string>Denmark</string>
+	<key>579</key>
+	<string>Denmark</string>
+	<key>590</key>
+	<string>Poland</string>
+	<key>594</key>
+	<string>Romania</string>
+	<key>599</key>
+	<string>Hungary</string>
+	<key>600</key>
+	<string>South Africa</string>
+	<key>601</key>
+	<string>South Africa</string>
+	<key>603</key>
+	<string>Ghana</string>
+	<key>604</key>
+	<string>Senegal</string>
+	<key>608</key>
+	<string>Bahrain</string>
+	<key>609</key>
+	<string>Mauritius</string>
+	<key>611</key>
+	<string>Morocco</string>
+	<key>613</key>
+	<string>Algeria</string>
+	<key>615</key>
+	<string>Nigeria</string>
+	<key>616</key>
+	<string>Kenya</string>
+	<key>618</key>
+	<string>Côte d&apos;Ivoire</string>
+	<key>619</key>
+	<string>Tunisia</string>
+	<key>620</key>
+	<string>Tanzania</string>
+	<key>621</key>
+	<string>Syria</string>
+	<key>622</key>
+	<string>Egypt</string>
+	<key>623</key>
+	<string>Brunei</string>
+	<key>624</key>
+	<string>Libya</string>
+	<key>625</key>
+	<string>Jordan</string>
+	<key>626</key>
+	<string>Iran</string>
+	<key>627</key>
+	<string>Kuwait</string>
+	<key>628</key>
+	<string>Saudi Arabia</string>
+	<key>629</key>
+	<string>United Arab Emirates</string>
+	<key>640</key>
+	<string>Finland</string>
+	<key>641</key>
+	<string>Finland</string>
+	<key>642</key>
+	<string>Finland</string>
+	<key>643</key>
+	<string>Finland</string>
+	<key>644</key>
+	<string>Finland</string>
+	<key>645</key>
+	<string>Finland</string>
+	<key>646</key>
+	<string>Finland</string>
+	<key>647</key>
+	<string>Finland</string>
+	<key>648</key>
+	<string>Finland</string>
+	<key>649</key>
+	<string>Finland</string>
+	<key>690</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>691</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>692</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>693</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>694</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>695</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>696</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>697</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>698</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>699</key>
+	<string>China, The People&apos;s Republic</string>
+	<key>700</key>
+	<string>Norway</string>
+	<key>701</key>
+	<string>Norway</string>
+	<key>702</key>
+	<string>Norway</string>
+	<key>703</key>
+	<string>Norway</string>
+	<key>704</key>
+	<string>Norway</string>
+	<key>705</key>
+	<string>Norway</string>
+	<key>706</key>
+	<string>Norway</string>
+	<key>707</key>
+	<string>Norway</string>
+	<key>708</key>
+	<string>Norway</string>
+	<key>709</key>
+	<string>Norway</string>
+	<key>729</key>
+	<string>Israel</string>
+	<key>730</key>
+	<string>Sweden</string>
+	<key>731</key>
+	<string>Sweden</string>
+	<key>732</key>
+	<string>Sweden</string>
+	<key>733</key>
+	<string>Sweden</string>
+	<key>734</key>
+	<string>Sweden</string>
+	<key>735</key>
+	<string>Sweden</string>
+	<key>736</key>
+	<string>Sweden</string>
+	<key>737</key>
+	<string>Sweden</string>
+	<key>738</key>
+	<string>Sweden</string>
+	<key>739</key>
+	<string>Sweden</string>
+	<key>740</key>
+	<string>Guatemala</string>
+	<key>741</key>
+	<string>El Salvador</string>
+	<key>742</key>
+	<string>Honduras</string>
+	<key>743</key>
+	<string>Nicaragua</string>
+	<key>744</key>
+	<string>Costa Rica</string>
+	<key>745</key>
+	<string>Panama</string>
+	<key>746</key>
+	<string>Dominican Republic</string>
+	<key>750</key>
+	<string>Mexico</string>
+	<key>754</key>
+	<string>Canada</string>
+	<key>755</key>
+	<string>Canada</string>
+	<key>759</key>
+	<string>Venezuela</string>
+	<key>760</key>
+	<string>Switzerland</string>
+	<key>761</key>
+	<string>Switzerland</string>
+	<key>762</key>
+	<string>Switzerland</string>
+	<key>763</key>
+	<string>Switzerland</string>
+	<key>764</key>
+	<string>Switzerland</string>
+	<key>765</key>
+	<string>Switzerland</string>
+	<key>766</key>
+	<string>Switzerland</string>
+	<key>767</key>
+	<string>Switzerland</string>
+	<key>768</key>
+	<string>Switzerland</string>
+	<key>769</key>
+	<string>Switzerland</string>
+	<key>770</key>
+	<string>Colombia</string>
+	<key>771</key>
+	<string>Colombia</string>
+	<key>773</key>
+	<string>Uruguay</string>
+	<key>775</key>
+	<string>Peru</string>
+	<key>777</key>
+	<string>Bolivia</string>
+	<key>778</key>
+	<string>Argentina</string>
+	<key>779</key>
+	<string>Argentina</string>
+	<key>780</key>
+	<string>Chile</string>
+	<key>784</key>
+	<string>Paraguay</string>
+	<key>786</key>
+	<string>Ecuador</string>
+	<key>789</key>
+	<string>Brazil</string>
+	<key>790</key>
+	<string>Brazil</string>
+	<key>800</key>
+	<string>Italy</string>
+	<key>801</key>
+	<string>Italy</string>
+	<key>802</key>
+	<string>Italy</string>
+	<key>803</key>
+	<string>Italy</string>
+	<key>804</key>
+	<string>Italy</string>
+	<key>805</key>
+	<string>Italy</string>
+	<key>806</key>
+	<string>Italy</string>
+	<key>807</key>
+	<string>Italy</string>
+	<key>808</key>
+	<string>Italy</string>
+	<key>809</key>
+	<string>Italy</string>
+	<key>810</key>
+	<string>Italy</string>
+	<key>811</key>
+	<string>Italy</string>
+	<key>812</key>
+	<string>Italy</string>
+	<key>813</key>
+	<string>Italy</string>
+	<key>814</key>
+	<string>Italy</string>
+	<key>815</key>
+	<string>Italy</string>
+	<key>816</key>
+	<string>Italy</string>
+	<key>817</key>
+	<string>Italy</string>
+	<key>818</key>
+	<string>Italy</string>
+	<key>819</key>
+	<string>Italy</string>
+	<key>820</key>
+	<string>Italy</string>
+	<key>821</key>
+	<string>Italy</string>
+	<key>822</key>
+	<string>Italy</string>
+	<key>823</key>
+	<string>Italy</string>
+	<key>824</key>
+	<string>Italy</string>
+	<key>825</key>
+	<string>Italy</string>
+	<key>826</key>
+	<string>Italy</string>
+	<key>827</key>
+	<string>Italy</string>
+	<key>828</key>
+	<string>Italy</string>
+	<key>829</key>
+	<string>Italy</string>
+	<key>830</key>
+	<string>Italy</string>
+	<key>831</key>
+	<string>Italy</string>
+	<key>832</key>
+	<string>Italy</string>
+	<key>833</key>
+	<string>Italy</string>
+	<key>834</key>
+	<string>Italy</string>
+	<key>835</key>
+	<string>Italy</string>
+	<key>836</key>
+	<string>Italy</string>
+	<key>837</key>
+	<string>Italy</string>
+	<key>838</key>
+	<string>Italy</string>
+	<key>839</key>
+	<string>Italy</string>
+	<key>840</key>
+	<string>Spain and Andorra</string>
+	<key>841</key>
+	<string>Spain and Andorra</string>
+	<key>842</key>
+	<string>Spain and Andorra</string>
+	<key>843</key>
+	<string>Spain and Andorra</string>
+	<key>844</key>
+	<string>Spain and Andorra</string>
+	<key>845</key>
+	<string>Spain and Andorra</string>
+	<key>846</key>
+	<string>Spain and Andorra</string>
+	<key>847</key>
+	<string>Spain and Andorra</string>
+	<key>848</key>
+	<string>Spain and Andorra</string>
+	<key>849</key>
+	<string>Spain and Andorra</string>
+	<key>850</key>
+	<string>Cuba</string>
+	<key>858</key>
+	<string>Slovakia</string>
+	<key>859</key>
+	<string>Czech Republic</string>
+	<key>860</key>
+	<string>Serbia</string>
+	<key>865</key>
+	<string>Mongolia</string>
+	<key>867</key>
+	<string>North Korea</string>
+	<key>868</key>
+	<string>Turkey</string>
+	<key>869</key>
+	<string>Turkey</string>
+	<key>870</key>
+	<string>Netherlands</string>
+	<key>871</key>
+	<string>Netherlands</string>
+	<key>872</key>
+	<string>Netherlands</string>
+	<key>873</key>
+	<string>Netherlands</string>
+	<key>874</key>
+	<string>Netherlands</string>
+	<key>875</key>
+	<string>Netherlands</string>
+	<key>876</key>
+	<string>Netherlands</string>
+	<key>877</key>
+	<string>Netherlands</string>
+	<key>878</key>
+	<string>Netherlands</string>
+	<key>879</key>
+	<string>Netherlands</string>
+	<key>880</key>
+	<string>South Korea</string>
+	<key>884</key>
+	<string>Cambodia</string>
+	<key>885</key>
+	<string>Thailand</string>
+	<key>888</key>
+	<string>Singapore</string>
+	<key>890</key>
+	<string>India</string>
+	<key>893</key>
+	<string>Vietnam</string>
+	<key>894</key>
+	<string>Bangladesh</string>
+	<key>896</key>
+	<string>Pakistan</string>
+	<key>899</key>
+	<string>Indonesia</string>
+	<key>900</key>
+	<string>Austria</string>
+	<key>901</key>
+	<string>Austria</string>
+	<key>902</key>
+	<string>Austria</string>
+	<key>903</key>
+	<string>Austria</string>
+	<key>904</key>
+	<string>Austria</string>
+	<key>905</key>
+	<string>Austria</string>
+	<key>906</key>
+	<string>Austria</string>
+	<key>907</key>
+	<string>Austria</string>
+	<key>908</key>
+	<string>Austria</string>
+	<key>909</key>
+	<string>Austria</string>
+	<key>910</key>
+	<string>Austria</string>
+	<key>911</key>
+	<string>Austria</string>
+	<key>912</key>
+	<string>Austria</string>
+	<key>913</key>
+	<string>Austria</string>
+	<key>914</key>
+	<string>Austria</string>
+	<key>915</key>
+	<string>Austria</string>
+	<key>916</key>
+	<string>Austria</string>
+	<key>917</key>
+	<string>Austria</string>
+	<key>918</key>
+	<string>Austria</string>
+	<key>919</key>
+	<string>Austria</string>
+	<key>930</key>
+	<string>Australia</string>
+	<key>931</key>
+	<string>Australia</string>
+	<key>932</key>
+	<string>Australia</string>
+	<key>933</key>
+	<string>Australia</string>
+	<key>934</key>
+	<string>Australia</string>
+	<key>935</key>
+	<string>Australia</string>
+	<key>936</key>
+	<string>Australia</string>
+	<key>937</key>
+	<string>Australia</string>
+	<key>938</key>
+	<string>Australia</string>
+	<key>939</key>
+	<string>Australia</string>
+	<key>940</key>
+	<string>New Zealand</string>
+	<key>941</key>
+	<string>New Zealand</string>
+	<key>942</key>
+	<string>New Zealand</string>
+	<key>943</key>
+	<string>New Zealand</string>
+	<key>944</key>
+	<string>New Zealand</string>
+	<key>945</key>
+	<string>New Zealand</string>
+	<key>946</key>
+	<string>New Zealand</string>
+	<key>947</key>
+	<string>New Zealand</string>
+	<key>948</key>
+	<string>New Zealand</string>
+	<key>949</key>
+	<string>New Zealand</string>
+	<key>955</key>
+	<string>Malaysia</string>
+	<key>958</key>
+	<string>Macau</string>
+	<key>980</key>
+	<string>Refund receipts</string>
+	<key>990</key>
+	<string>Coupons</string>
+	<key>991</key>
+	<string>Coupons</string>
+	<key>992</key>
+	<string>Coupons</string>
+	<key>993</key>
+	<string>Coupons</string>
+	<key>994</key>
+	<string>Coupons</string>
+	<key>995</key>
+	<string>Coupons</string>
+	<key>996</key>
+	<string>Coupons</string>
+	<key>997</key>
+	<string>Coupons</string>
+	<key>998</key>
+	<string>Coupons</string>
+	<key>999</key>
+	<string>Coupons</string>
 </dict>
 </plist>

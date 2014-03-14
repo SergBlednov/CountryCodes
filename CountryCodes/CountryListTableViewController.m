@@ -62,9 +62,9 @@
 
 // got from http://stackoverflow.com/questions/15247510/how-to-get-nsdictionary-data-into-a-uitableview
     
-    NSString *key = [country.countryListByCode allKeys][indexPath.row];
-    cell.textLabel.text = country.countryListByCode[key];
-    cell.detailTextLabel.text = key;
+    NSString *key = [country.countryListByName allKeys][indexPath.row];
+    cell.textLabel.text = key;
+    cell.detailTextLabel.text = country.countryListByName[key];
     return cell;
 }
 
