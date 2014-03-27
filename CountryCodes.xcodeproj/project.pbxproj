@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89E4742E3799407E96396C34 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7336E5623BAC447FA42C0198 /* libPods.a */; };
+		D52E48C418E43A8700567EF0 /* BarcodeReaderViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D52E48C318E43A8700567EF0 /* BarcodeReaderViewController.m */; };
+		D52E48C618E43FB000567EF0 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D52E48C518E43FB000567EF0 /* AVFoundation.framework */; };
+		D52E48C818E43FBB00567EF0 /* CoreAudio.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D52E48C718E43FBB00567EF0 /* CoreAudio.framework */; };
+		D52E48CA18E43FC300567EF0 /* CoreVideo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D52E48C918E43FC300567EF0 /* CoreVideo.framework */; };
+		D52E48CC18E43FD400567EF0 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D52E48CB18E43FD400567EF0 /* QuartzCore.framework */; };
+		D52E48CE18E43FDE00567EF0 /* libiconv.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = D52E48CD18E43FDE00567EF0 /* libiconv.dylib */; };
 		D5878AC718D0892B00FFA86B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5878AC618D0892B00FFA86B /* Foundation.framework */; };
 		D5878AC918D0892B00FFA86B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5878AC818D0892B00FFA86B /* CoreGraphics.framework */; };
 		D5878ACB18D0892B00FFA86B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5878ACA18D0892B00FFA86B /* UIKit.framework */; };
@@ -39,6 +46,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4E7F242B9ED0470CA28F4B80 /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		7336E5623BAC447FA42C0198 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		D52E48C218E43A8700567EF0 /* BarcodeReaderViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BarcodeReaderViewController.h; sourceTree = "<group>"; };
+		D52E48C318E43A8700567EF0 /* BarcodeReaderViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BarcodeReaderViewController.m; sourceTree = "<group>"; };
+		D52E48C518E43FB000567EF0 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		D52E48C718E43FBB00567EF0 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
+		D52E48C918E43FC300567EF0 /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
+		D52E48CB18E43FD400567EF0 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		D52E48CD18E43FDE00567EF0 /* libiconv.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libiconv.dylib; path = usr/lib/libiconv.dylib; sourceTree = SDKROOT; };
 		D5878AC318D0892B00FFA86B /* CountryCodes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CountryCodes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5878AC618D0892B00FFA86B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D5878AC818D0892B00FFA86B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -73,9 +89,15 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D52E48CE18E43FDE00567EF0 /* libiconv.dylib in Frameworks */,
+				D52E48CC18E43FD400567EF0 /* QuartzCore.framework in Frameworks */,
+				D52E48CA18E43FC300567EF0 /* CoreVideo.framework in Frameworks */,
+				D52E48C818E43FBB00567EF0 /* CoreAudio.framework in Frameworks */,
+				D52E48C618E43FB000567EF0 /* AVFoundation.framework in Frameworks */,
 				D5878AC918D0892B00FFA86B /* CoreGraphics.framework in Frameworks */,
 				D5878ACB18D0892B00FFA86B /* UIKit.framework in Frameworks */,
 				D5878AC718D0892B00FFA86B /* Foundation.framework in Frameworks */,
+				89E4742E3799407E96396C34 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -99,6 +121,7 @@
 				D5878AEE18D0892C00FFA86B /* CountryCodesTests */,
 				D5878AC518D0892B00FFA86B /* Frameworks */,
 				D5878AC418D0892B00FFA86B /* Products */,
+				4E7F242B9ED0470CA28F4B80 /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -114,10 +137,16 @@
 		D5878AC518D0892B00FFA86B /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D52E48CD18E43FDE00567EF0 /* libiconv.dylib */,
+				D52E48CB18E43FD400567EF0 /* QuartzCore.framework */,
+				D52E48C918E43FC300567EF0 /* CoreVideo.framework */,
+				D52E48C718E43FBB00567EF0 /* CoreAudio.framework */,
+				D52E48C518E43FB000567EF0 /* AVFoundation.framework */,
 				D5878AC618D0892B00FFA86B /* Foundation.framework */,
 				D5878AC818D0892B00FFA86B /* CoreGraphics.framework */,
 				D5878ACA18D0892B00FFA86B /* UIKit.framework */,
 				D5878AE818D0892C00FFA86B /* XCTest.framework */,
+				7336E5623BAC447FA42C0198 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -134,6 +163,8 @@
 				D5878ADF18D0892C00FFA86B /* ByCountryViewController.m */,
 				D5878B0318D1E47D00FFA86B /* CountryListTableViewController.h */,
 				D5878B0418D1E47D00FFA86B /* CountryListTableViewController.m */,
+				D52E48C218E43A8700567EF0 /* BarcodeReaderViewController.h */,
+				D52E48C318E43A8700567EF0 /* BarcodeReaderViewController.m */,
 				D5878AE118D0892C00FFA86B /* Images.xcassets */,
 				D5878ACD18D0892B00FFA86B /* Supporting Files */,
 				D5878AFE18D0C64300FFA86B /* Country.h */,
@@ -180,9 +211,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = D5878AF818D0892C00FFA86B /* Build configuration list for PBXNativeTarget "CountryCodes" */;
 			buildPhases = (
+				2071CB1A9841481B9BAB5CB7 /* Check Pods Manifest.lock */,
 				D5878ABF18D0892B00FFA86B /* Sources */,
 				D5878AC018D0892B00FFA86B /* Frameworks */,
 				D5878AC118D0892B00FFA86B /* Resources */,
+				F2BC1137EDC94ACA9A255789 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -267,6 +300,39 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2071CB1A9841481B9BAB5CB7 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F2BC1137EDC94ACA9A255789 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D5878ABF18D0892B00FFA86B /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -278,6 +344,7 @@
 				D5878ADD18D0892C00FFA86B /* ByCodeViewController.m in Sources */,
 				D5878AD318D0892B00FFA86B /* main.m in Sources */,
 				D5878B0018D0C64300FFA86B /* Country.m in Sources */,
+				D52E48C418E43A8700567EF0 /* BarcodeReaderViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -399,6 +466,7 @@
 		};
 		D5878AF918D0892C00FFA86B /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E7F242B9ED0470CA28F4B80 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -413,6 +481,7 @@
 		};
 		D5878AFA18D0892C00FFA86B /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4E7F242B9ED0470CA28F4B80 /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -484,6 +553,7 @@
 				D5878AFA18D0892C00FFA86B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5878AFB18D0892C00FFA86B /* Build configuration list for PBXNativeTarget "CountryCodesTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +562,7 @@
 				D5878AFD18D0892C00FFA86B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
