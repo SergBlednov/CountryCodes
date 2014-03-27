@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface BarcodeReaderViewController : UIViewController <ZBarReaderDelegate>
+@interface BarcodeReaderViewController : UIViewController <ZBarReaderDelegate, UITextViewDelegate>
 
 @property (nonatomic, retain) IBOutlet UIImageView *resultImage;
 @property (nonatomic, retain) IBOutlet UITextView *resultText;

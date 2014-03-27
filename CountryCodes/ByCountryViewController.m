@@ -43,11 +43,9 @@
 
 - (void)pickerView:(UIPickerView *)pickerView didSelectRow:(NSInteger)row inComponent:(NSInteger)component
 {
-    NSLog(@"Name of Row is %d, country name is %@", row, _sortedArray[row]);
     NSString *code = [_countryListByName objectForKey:_sortedArray[row]];
-    NSString *message = [[NSString alloc] initWithFormat:@"You've selected %@.\n Country code is %@", _sortedArray[row], code];
-    NSLog(@"%@", message);
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes \n By Country Name" message:message delegate:nil cancelButtonTitle:@"Okay!" otherButtonTitles:nil, nil];
+    NSString *message = [[NSString alloc] initWithFormat:@"You've selected %@.\n Country code(s) : %@", _sortedArray[row], code];
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes" message:message delegate:nil cancelButtonTitle:@"Okay!" otherButtonTitles:nil, nil];
     [alert show];
     self.textCountryCode.text = code;
 }

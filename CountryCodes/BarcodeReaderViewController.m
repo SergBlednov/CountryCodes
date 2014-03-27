@@ -39,16 +39,18 @@
 - (void)getCountryButtonTapped
 {
     Country *country = [[Country alloc] init];
-    NSString *code = [self.resultText.text substringToIndex:3];
+    NSString *barcode = self.resultText.text;
     
-    NSString *countryName = [country getCountryNameByCode:code];
-    
-    NSLog(@"The country code entered is %@", code);
-    NSLog(@"The country is %@", countryName);
-    
-    NSString *message =  [[NSString alloc] initWithFormat:@"You've scanned the good with barcode %@\n It have been made in %@", code, countryName];
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes" message:message  delegate:nil cancelButtonTitle:nil otherButtonTitles:@"Okay", nil];
-    [alert show];
+    if ([barcode length] > 0) {
+        NSString *code = [barcode substringToIndex:3];
+        NSString *countryName = [country getCountryNameByCode:code];
+        NSString *message =  [[NSString alloc] initWithFormat:@"The barcode is %@\n It have been made in %@", barcode, countryName];
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes" message:message  delegate:nil cancelButtonTitle:@"Okay" otherButtonTitles:nil, nil];
+        [alert show];
+    } else {
+        UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Country Codes" message:@"Please scan a barcode at first!"  delegate:nil cancelButtonTitle:@"Okay" otherButtonTitles:nil, nil];
+        [alert show];
+    }
 }
 
 - (void)dealloc
@@ -61,6 +63,7 @@
 {
     return(YES);
 }
+    
 
 #pragma mark - ZBarReader Delegate
 
